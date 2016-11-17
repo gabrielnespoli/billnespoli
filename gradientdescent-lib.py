@@ -1,3 +1,6 @@
+#Author: Gabriel Mesquita Nespoli
+#Student of Masters in Data Science at Università Sapienza di Roma
+
 import numpy as np
 import math
 import matplotlib.pyplot as plt
@@ -5,7 +8,7 @@ import tkinter
 
 def plotGradientDescent(x,y,theta):
 	plt.figure()  
-    #line = [b a]; y = b + ax
+	#line = [b a]; y = b + ax
 	plt.plot(x[:,1], theta[1]*x[:,1] + theta[0], '-')
 	plt.plot(x[:,1], y, 'o')
 	
