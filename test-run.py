@@ -1,5 +1,4 @@
-#Author: Gabriel Mesquita Nespoli
-#Student of Masters in Data Science at Università Sapienza di Roma
+#Author: Gabriel Nespoli
 
 import csv
 import numpy as np
