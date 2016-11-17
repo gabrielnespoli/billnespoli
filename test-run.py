@@ -1,7 +1,7 @@
 import csv
 import numpy as np
 import math
-mylib = __import__('1743585-lib')
+mylib = __import__('gradientdescent-lib')
 import tkinter
 
 def normalize(wines):
