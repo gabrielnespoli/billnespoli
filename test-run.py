@@ -1,7 +1,10 @@
+#Author: Gabriel Mesquita Nespoli
+#Student of Masters in Data Science at Università Sapienza di Roma
+
 import csv
 import numpy as np
 import math
-mylib = __import__('gradientdescent-lib')
+import gradientdescent-lib
 import tkinter
 
 def normalize(wines):
